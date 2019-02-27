@@ -64,6 +64,7 @@ In den oberen Regionen der aktuellen Charts, wo sich seit Monaten praktisch nur 
 ### Arbeitsprotokoll
 
 | Datum | Aufwand | Tätigkeit |
+| -------- | ---- | ------------- |
 | 23.10.18 | 8 h | Scraper für Hitparade schreiben |
 | 18.02.19 | 4 h | Idee weiterentwickeln, These prüfen mit Briefingperson |
 | 19.02.19 | 8 h | Scraper mit Selenium weiterentwickeln, erste Auswertungen machen |
