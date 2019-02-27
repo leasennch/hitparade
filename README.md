@@ -21,6 +21,8 @@ Bereits im Oktober 18 habe ich Code geschrieben, der die Daten von hitparade.ch 
 
 ### Einschätzung von Aufwand / Ertrag
 Den Scraper zu bauen und die Daten sinnvoll aufzubereiten, sollte gut möglich sein. Die Webseite ist gut strukturiert. Arbeit gibt wohl vor allem die Analyse in Pandas. Auch ins Visualisieren sollte genug Zeit investiert werden, damit man den Inhalt schnell erfassen kann.
+![alt text](https://github.com/leasennch/hitparade/diverses/Spider.jpg "Spider")
+
 
 ### Knackpunkte
 Schön wäre es gewesen, wenn der Datensatz Verbindungen unter den Künstlern beinhalten würde, also zum Beispiel, dass «Remady & Manu-L» als zwei Einzelne Künstler gewertet werden, oder dass bei den Erfolgen von «Ritschi» auch die Erfolge seiner Band «Plüsch» mitgewertet würden. Das sprengt jedoch zeitlich den Rahmen, weil nicht nur die Datenbeschaffung aufwändiger wäre, sondern auch die logische Darstellungsform in den Grafiken.
