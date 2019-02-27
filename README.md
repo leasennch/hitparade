@@ -14,7 +14,7 @@ Bereits im Oktober 18 habe ich Code geschrieben, der die Daten von hitparade.ch 
 
 1) Gibt es Künstler, die ebenfalls nach 4 oder weniger Wochen nach ihrem ersten Erscheinen in der Schweizer Charts einen Nummer-1-Hit landeten?
 2) Falls ja: Wann war das? Häufen sich diese Senkrechtstarter in den letzten Jahren?
-3) Wie ist die Karriere von Senkrechtstartern danach verlaufen? Evt. kann man eine ähnliche Grafik realisieren, wie wir sie hier haben, man müsste jedoch den Weg zur ersten Nummer 1 grafisch hervorheben.
+3) Wie ist die Karriere von Senkrechtstartern danach verlaufen? Evt. kann man eine ähnliche Grafik realisieren, wie wir sie [hier](https://public.tableau.com/profile/bo.mccready8742#!/vizhome/MostYearsChartingontheBillboardHot100/MostYearsCharting) haben, man müsste jedoch den Weg zur ersten Nummer 1 grafisch hervorheben.
 
 4) Zusatzoption 1: Eine Slideshow mit dem Karriereverlauf der erfolgreichsten Künstler. Beziehungsweise noch cooler: Eine interaktive Grafik, wo man den Karriereverlauf seines Lieblingskünstlers abrufen kann.
 5) Zusatzoption 2: Falls man mit den Daten etwas anfangen kann: Spotify API anzapfen und Infos wie z.B. Länge einzelner Stücke abrufen 
