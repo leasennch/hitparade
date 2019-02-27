@@ -59,9 +59,9 @@ In den oberen Regionen der aktuellen Charts, wo sich seit Monaten praktisch nur 
 
 ### Datensatz / Programmiercode
 - [Hitparadenscraper](https://github.com/leasennch/hitparade/blob/master/Hitparade_Scraper.ipynb)
-- Ergebnisse als CSV
-- Ergebnisse als Grafiken aus matplotlib und in Illustrator aufbereitet
-- D3.js-Code für die interaktive Grafik
+- [Ergebnisse als CSV und Outputs matplotlib](https://github.com/leasennch/hitparade/tree/master/python_outputs)
+- [Ergebnisse als Grafiken in Illustrator aufbereitet](https://github.com/leasennch/hitparade/tree/master/finished_graphics)
+- [D3.js-Code für die interaktive Grafik](https://github.com/leasennch/hitparade/tree/master/interactive)
 
 ### Arbeitsprotokoll
 
