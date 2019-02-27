@@ -32,7 +32,7 @@ Eine interaktive Grafik wäre ein schönes Nice-To-Have. Ich habe mir D3.js bere
 ### Briefingpersonen
 Ich habe mit den Musikchefs von Radio 24 und Radio Argovia gesprochen. 
 
-__Chris Jäggli, Radio 24:__
+__Chris Jäckli, Radio 24:__
 1) Früher waren Bands mit mehreren Songs in den Charts vertreten, bis sie richtig erfolgreich waren. Heute stürmen Leute wie Ava Max innert Wochen die Charts. Teilst du diesen Eindruck auch oder hast du eine andere Ansicht?
 *«Teilweise. Auch früher gab es Bands und Künstler, welche vermeintlich aus dem Nichts mit einem Hit um die Ecke kamen. Nehmen wir die Band Fool’s Garden mit ihrem Song ‘Lemon Tree’ als Beispiel. Nach diesem Hit waren sie nie mehr in der Schweizer Hitparade. Was man aber gerne vergisst ist die Tatsache, dass die Künstler schon vor ihrem Hit Musik gemacht haben. Kaum jemand hat zum ersten Mal ein Instrument in die Hand genommen, als er seinen ersten Hit gelandet hat. Heute ist es aber sicher schnelllebiger geworden und die Künstler haben durch neue Technologien mehr Chancen in die Charts zu kommen.»*
  
