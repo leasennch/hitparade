@@ -21,7 +21,7 @@ Bereits im Oktober 18 habe ich Code geschrieben, der die Daten von hitparade.ch 
 
 ### Einschätzung von Aufwand / Ertrag
 Den Scraper zu bauen und die Daten sinnvoll aufzubereiten, sollte gut möglich sein. Die Webseite ist gut strukturiert. Arbeit gibt wohl vor allem die Analyse in Pandas. Auch ins Visualisieren sollte genug Zeit investiert werden, damit man den Inhalt schnell erfassen kann.
-![alt text](https://github.com/leasennch/hitparade/diverses/Spider.jpg "Spider")
+![Spider](https://github.com/leasennch/hitparade/blob/master/diverses/Spider.jpg "Spider")
 
 
 ### Knackpunkte
