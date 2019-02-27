@@ -56,7 +56,6 @@ In den oberen Regionen der aktuellen Charts, wo sich seit Monaten praktisch nur 
  
 *Wenn man eine gute Community auf Social Media aufbauen kann, ist die Chance gross, auch als Schweizer Act mit Streamings und Verkäufe wenigstens eine Woche vorne in den Charts mitzumischen und somit eine gewisse Aufmerksamkeit zu erreichen. Sobald die Community aber gut gefüttert ist und mit den Songs kaum weitere Menschen erreicht werden können, sieht’s für eine langlebige Chartkarriere eher düster aus. Kommt noch dazu, dass Musiker von hier, die in Mundart produzieren, auf dem internationalen Markt kaum Chancen haben, sich durchzusetzen. Zwar versuchen sich viele Künstler und Bands auch auf Englisch. Die meistens scheitern aber daran, dass sie sich in dieser Sprache weniger gut und treffend ausdrücken können und so ihre Performance schnell als «unprofessionell» abgestempelt wird.*
 
-
 ## Datensatz / Programmiercode
 - [Hitparadenscraper](../hitparaden-scraper.ipynb)
 - Ergebnisse als CSV
@@ -65,7 +64,7 @@ In den oberen Regionen der aktuellen Charts, wo sich seit Monaten praktisch nur 
 
 ## Arbeitsprotokoll
 
-| Datum | Aufwand | Tätigkeit
+Datum | Aufwand | Tätigkeit
 23.10.18 | 8 h | Scraper für Hitparade schreiben
 18.02.19 | 4 h | Idee weiterentwickeln, These prüfen mit Briefingperson
 19.02.19 | 8 h | Scraper mit Selenium weiterentwickeln, erste Auswertungen machen
