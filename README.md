@@ -1,13 +1,13 @@
 # Senkrechtstarter in der Schweizer Hitparade
 Wie aus dem Nichts schoss Ava Max mit ihrem Hit «Sweet But Psycho» auf Platz 1 der Schweizer Single-Hitparade. Gab es das früher auch schon? Kommt das heutzutage häufiger vor als früher? Wie haben sich die Karrieren danach entwickelt?
 
-## Der publizierte Artikel
+### Der publizierte Artikel
 [https://www.watson.ch/Lea+Senn](https://www.watson.ch/Lea+Senn)
 
-## Ausgangsthese
+### Ausgangsthese
 Heute gibt es häufiger musikalische Senkrechtstarter, die nach sehr kurzer Zeit einen Nummer-1-Hit landen (wie z.B. kürzlich Ava Max)
 
-## Idee
+### Idee
 Wie aus dem Nichts schoss Ava Max mit ihrem Hit «Sweet But Psycho» an die Spitze sämtlicher internationalen Charts. Ich frage mich, ob das ein «neumodisches Phänomen» ist, oder ob es solche Situationen auch vorher schon gab. 
 
 Bereits im Oktober 18 habe ich Code geschrieben, der die Daten von hitparade.ch ausliest. Ich wollte damals eine Schweizerkarte mit den erfolgreichsten Musikern nach Kanton zeichnen, habe die Idee jedoch verworfen. Auf die Entwürfe des Scrapers kann ich nun jedoch aufbauen und ihn so erweitern, dass ich mir eine gute Datengrundlage schaffen kann. 
@@ -27,8 +27,7 @@ Schön wäre es gewesen, wenn der Datensatz Verbindungen unter den Künstlern be
 
 Eine interaktive Grafik wäre ein schönes Nice-To-Have. Ich habe mir D3.js bereits einmal für ein Projekt etwas angeschaut, es ist jedoch in meinen Augen ein ziemlich komplexes Tool und würde mich relativ viel Zeit kosten, damit eine interaktive Grafik zu bauen. 
 
-
-## Briefingpersonen
+### Briefingpersonen
 Ich habe mit den Musikchefs von Radio 24 und Radio Argovia gesprochen. 
 
 __Chris Jäggli, Radio 24:__
@@ -56,23 +55,23 @@ In den oberen Regionen der aktuellen Charts, wo sich seit Monaten praktisch nur 
  
 *Wenn man eine gute Community auf Social Media aufbauen kann, ist die Chance gross, auch als Schweizer Act mit Streamings und Verkäufe wenigstens eine Woche vorne in den Charts mitzumischen und somit eine gewisse Aufmerksamkeit zu erreichen. Sobald die Community aber gut gefüttert ist und mit den Songs kaum weitere Menschen erreicht werden können, sieht’s für eine langlebige Chartkarriere eher düster aus. Kommt noch dazu, dass Musiker von hier, die in Mundart produzieren, auf dem internationalen Markt kaum Chancen haben, sich durchzusetzen. Zwar versuchen sich viele Künstler und Bands auch auf Englisch. Die meistens scheitern aber daran, dass sie sich in dieser Sprache weniger gut und treffend ausdrücken können und so ihre Performance schnell als «unprofessionell» abgestempelt wird.*
 
-## Datensatz / Programmiercode
+### Datensatz / Programmiercode
 - [Hitparadenscraper](../hitparaden-scraper.ipynb)
 - Ergebnisse als CSV
 - Ergebnisse als Grafiken aus matplotlib und in Illustrator aufbereitet
 - D3.js-Code für die interaktive Grafik
 
-## Arbeitsprotokoll
+### Arbeitsprotokoll
 
-Datum | Aufwand | Tätigkeit
-23.10.18 | 8 h | Scraper für Hitparade schreiben
-18.02.19 | 4 h | Idee weiterentwickeln, These prüfen mit Briefingperson
-19.02.19 | 8 h | Scraper mit Selenium weiterentwickeln, erste Auswertungen machen
-20.02.19 | 4 h | Erste Visualisierungen machen, Struktur der Geschichte bestimmen, Story im Team besprechen 
-22.02.19 | 8 h | Interaktive Grafik mit D3.js bauen, Spotify-API testen
-23.02.19 | 3 h | Erkenntnisse visualisieren
-25.02.19 | 4 h | Interaktive Grafik weiterentwickeln, Projektdokumentation anlegen
-26.02.19 | 8 h | Interviews mit Briefingperson in Text einbauen, Design interaktive Grafik anpassen für Mobile
-27.02.19 | 4 h | Timeline-Grafik erstellen, Text formulieren, Dokumentation 
-28.02.19 | 2 h | Geschichte veröffentlichen, Social Media, Kommentarspalte verwalten
+| Datum | Aufwand | Tätigkeit |
+| 23.10.18 | 8 h | Scraper für Hitparade schreiben |
+| 18.02.19 | 4 h | Idee weiterentwickeln, These prüfen mit Briefingperson |
+| 19.02.19 | 8 h | Scraper mit Selenium weiterentwickeln, erste Auswertungen machen |
+| 20.02.19 | 4 h | Erste Visualisierungen machen, Struktur der Geschichte bestimmen, Story im Team besprechen  |
+| 22.02.19 | 8 h | Interaktive Grafik mit D3.js bauen, Spotify-API testen |
+| 23.02.19 | 3 h | Erkenntnisse visualisieren |
+| 25.02.19 | 4 h | Interaktive Grafik weiterentwickeln, Projektdokumentation anlegen |
+| 26.02.19 | 8 h | Interviews mit Briefingperson in Text einbauen, Design interaktive Grafik anpassen für Mobile |
+| 27.02.19 | 4 h | Timeline-Grafik erstellen, Text formulieren, Dokumentation  |
+| 28.02.19 | 2 h | Geschichte veröffentlichen, Social Media, Kommentarspalte verwalten |
 
