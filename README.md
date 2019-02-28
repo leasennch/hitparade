@@ -2,7 +2,7 @@
 Wie aus dem Nichts schoss Ava Max mit ihrem Hit «Sweet But Psycho» auf Platz 1 der Schweizer Single-Hitparade. Gab es das früher auch schon? Kommt das heutzutage häufiger vor als früher? Wie haben sich die Karrieren danach entwickelt?
 
 ### Der publizierte Artikel
-[https://www.watson.ch/Lea+Senn](https://www.watson.ch/Lea+Senn)
+[https://www.watson.ch/!270726641](https://www.watson.ch/!270726641)
 
 ### Ausgangsthese
 Heute gibt es häufiger musikalische Senkrechtstarter, die nach sehr kurzer Zeit einen Nummer-1-Hit landen (wie z.B. kürzlich Ava Max)
